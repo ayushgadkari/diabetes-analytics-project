@@ -45,7 +45,7 @@ An end-to-end data analytics dashboard and machine learning platform built to co
    
 2. Install Required Dependencies:
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
 
 3. Run the Streamlit Dashboard:
    ```bash
