@@ -49,4 +49,4 @@ An end-to-end data analytics dashboard and machine learning platform built to co
 
 3. Run the Streamlit Dashboard:
    ```bash
-   streamlit run AyushGadkari_DiabetesAnalytics.py
+   python -m streamlit run AyushGadkari_DiabetesAnalytics.py
